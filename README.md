@@ -1,4 +1,4 @@
-# Sampling Assignment
+# Sampling Assignment     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Samarjeet09/Assignment-2-Sampling/blob/main/Assignement_2_Sampling.ipynb) 
 ## Introduction to Sampling Assignment
 This assignment focuses on exploring various sampling techniques to handle imbalanced datasets in the context of credit card fraud detection. The dataset used for this assignment is the [Credit Card Fraud Detection dataset](https://github.com/AnjulaMehto/Sampling_Assignment/blob/main/Creditcard_data.csv), and the objective is to assess the impact of different sampling techniques on model performance.
 
